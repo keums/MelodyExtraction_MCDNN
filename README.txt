@@ -17,7 +17,8 @@ This is our submission to the 2016 MIREX melody extraction task.
 The algorithm is a classification based approach using deep neural networks.
 The file 'main.py' is the main function for calling the algorithm. 
 It takes as parameter, input the full path string for the input file and output file.
-
+If you want to know about this algorithms, 
+please check https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/119_Paper.pdf
 
 ============================================================
 ** Platform and Requirements
