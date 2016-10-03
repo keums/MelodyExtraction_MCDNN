@@ -1,0 +1,1 @@
+./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5	0.680859284436

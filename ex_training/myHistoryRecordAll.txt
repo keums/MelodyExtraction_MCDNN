@@ -1,0 +1,13 @@
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.652210030134
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.656769183213
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.660739123711
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.668350591163
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.672368827743
+epoch : 1	./model/_frames_11_note_res_1_drop_out_0.2_optimizer_rms_activation_relu_output_activation_sigmoid_TEST.hdf5
+valid_accuracy	0.675749555653
+valid_accuracy	0.680859284436
