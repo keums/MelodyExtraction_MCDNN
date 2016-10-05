@@ -135,7 +135,7 @@ def main(param = 0.2 , PATH_LOAD_FILE='/home/keums/Melody/dataset/adc2004_full_s
 
 if __name__ == '__main__':
  
-    main(param=0.2, PATH_LOAD_FILE='/home/keums/Melody/dataset/adc2004_full_set/file/pop1.wav', PATH_SAVE_FILE='./SAVE_RESULTS/pop1.txt')
+    main(param=0.2, PATH_LOAD_FILE='./pop1.wav', PATH_SAVE_FILE='./SAVE_RESULTS/pop1.txt')
 
 else:
      param = sys.argv[1]           
