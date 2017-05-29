@@ -134,11 +134,8 @@ def main(param = 0.2 , PATH_LOAD_FILE='/home/keums/Melody/dataset/adc2004_full_s
     print PATH_est_pitch
 
 if __name__ == '__main__':
+    param = sys.argv[1]
+    PATH_LOAD_FILE = sys.argv[2]
+    PATH_SAVE_FILE = sys.argv[3]
  
-    main(param=0.2, PATH_LOAD_FILE='./pop1.wav', PATH_SAVE_FILE='./SAVE_RESULTS/pop1.txt')
-
-else:
-     param = sys.argv[1]           
-     PATH_LOAD_FILE = sys.argv[2]   
-     PATH_SAVE_FILE = sys.argv[3] 
-     main()
+    main(param, PATH_LOAD_FILE, PATH_SAVE_FILE)
